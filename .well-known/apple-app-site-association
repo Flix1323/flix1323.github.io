@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["GY537K649U.de.fhansmei.dashboardapp"],
+        "components": [
+          { "/": "/s/*", "comment": "Geteilte PersOS-Inhalte; der Inhalt steht im Fragment." }
+        ]
+      }
+    ]
+  }
+}
